@@ -20,3 +20,21 @@ IPython for interactive execution and sharing of code,
 Scikit-Learn for machine learning, and 
 many more tools.
 
+
+Shell commands:
+
+echo "Hello, World!"  - # echo is like Python's print function
+
+pwd -  print working directory
+
+ls - list working directory contents
+
+cd project/ - change directory
+
+mkdir myproject - make new directory
+
+cd myproject/
+
+mv ../myproject.txt - # mv = move file. Here we're moving the 
+                      # file myproject.txt from one directory
+                      # up (../) to the current directory (./).
