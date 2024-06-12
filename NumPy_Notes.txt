@@ -43,8 +43,7 @@ Complex number, represented by two 64-bit floats
 
 ----------
 
-Table 6-1. Arithmetic operators implemented in NumPy
-
+** Arithmetic operators implemented in NumPy **
 
 +np.add
 Addition (e.g., 1 + 1 = 2)
